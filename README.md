@@ -10,9 +10,6 @@ CSS styling for a visually appealing user interface
 
 Screenshots
 
-
-![Screenshot (57)](https://github.com/20A31A0512/AmazonClone_project/assets/110037056/231c208a-6144-4a1b-bb77-ec48a052f932)
-
 ![Screenshot (58)](https://github.com/20A31A0512/AmazonClone_project/assets/110037056/bd7f702d-00cf-4120-8c3f-eed088434850)
 
 ![Screenshot (59)](https://github.com/20A31A0512/AmazonClone_project/assets/110037056/1d81e07c-7382-47ed-b4ec-3c8f84892f87)
